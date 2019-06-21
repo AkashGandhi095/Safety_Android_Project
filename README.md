@@ -1,7 +1,7 @@
 # Safety_Android_Project
 Women Safety Android Application Project
 
-Women Safety Android Application Project Safety Android Application is a women safety android app which helps them in an emergency situation.
+Safety Android Application is a women safety android app which helps them in an emergency situation.
 
 Features:
 
