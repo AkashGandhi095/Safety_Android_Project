@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/rippleColor">
+     <item>
+         <shape
+             android:shape="oval">
+             <size android:height="200dp"
+                 android:width="200dp"/>
+
+             <solid android:color="@color/pureWhite"/>
+         </shape>
+     </item>
+
+    <item android:drawable="@drawable/alert"
+        android:width="130dp"
+        android:height="130dp"
+        android:bottom="20dp"
+        android:gravity="center_horizontal|center_vertical"
+
+        />
+</ripple>

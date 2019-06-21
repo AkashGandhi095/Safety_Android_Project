@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn = "navigation_view">
+
+
+
+    <item android:checkable="true"
+        android:title="@string/alert_nav"
+        android:id="@+id/nav_alert"
+        android:icon="@drawable/alert"
+        android:checked="true"
+        />
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/nav_equip"
+            android:icon="@drawable/equip"
+            android:id="@+id/nav_equipments"/>
+
+        <item android:title="@string/nav_defence"
+            android:id="@+id/nav_defence"
+            android:icon="@drawable/defence"
+            />
+
+    </group>
+
+    <item android:title="@string/settings"
+        android:id="@+id/settings">
+        <menu >
+            <item
+
+                android:id="@+id/Change_Password"
+                android:icon="@drawable/change_password"
+                android:title="@string/change_password"/>
+            <item android:id="@+id/Logout"
+                android:icon="@drawable/logout"
+                android:title="@string/log_out"
+                />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+   <!-- <item android:drawable="@color/rippleColor"
+        android:state_pressed="true">
+        <shape android:shape="oval"/>
+</item>
+
+    <item android:drawable="@color/pureWhite">
+        <shape android:shape="oval"/>
+    </item>-->
+
+
+
+
+
+    <item
+        android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/rippleColor"/>
+            <size android:width="200dp"
+                android:height="200dp"/>
+
+
+        </shape>
+
+
+    </item>
+
+
+
+    <item
+        android:drawable="@drawable/alert_bg"
+
+        />
+
+
+
+
+
+</selector>

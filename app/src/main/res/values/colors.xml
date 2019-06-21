@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#625DE6</color>
+    <color name="colorPrimaryDark">#625DE6</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="circleColor">#625DE6</color>
+    <color name="blackColor">#1F1C1C</color>
+    <color name="appColor">#F80505</color>
+    <color name="headerColor">#9995EB</color>
+    <color name="pureWhite">#ffff</color>
+    <color name="rippleColor">#D3F13E3E</color>
+
+    <color name="shadow">#CAC6C6</color>
+</resources>

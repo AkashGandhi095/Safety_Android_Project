@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">WomenSafetyApp</string>
+
+    <!--Login and Sign String resources-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already">Already have an Account ?</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="create_account">Create Account</string>
+    <string name="loginusermail">UserEmail</string>
+    <string name="logout">LOGOUT</string>
+    <string name="home_activity">HOME ACTIVITY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="women_safety_app">WOMEN SAFETY APP</string>
+    <string name="alert_nav">Alert</string>
+    <string name="nav_equip">Safety Equipments</string>
+    <string name="nav_defence">Self Defence Tricks</string>
+
+
+    <string name="open_Drawer">Open navigation drawer</string>
+    <string name="close_Drawer">Close navigation drawer</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add">ADD</string>
+    <string name="username">userName</string>
+    <string name="phoneno">phoneno</string>
+    <string name="call">CALL</string>
+    <string name="send_sms_loc">Send SMS | Location</string>
+    <string name="emergency_trick">Emergency Safety Trick</string>
+    <string name="my_sample_test_card_view">my sample texts</string>
+    <string name="Desc">Description</string>
+    <string name="specifications">Specifications</string>
+    <string name="item_specs">item specs</string>
+    <string name="about_item">about item</string>
+
+
+    <!--Tab texts-->
+    <string name="Video">Videos</string>
+    <string name="post">Safety Posts</string>
+    <string name="sample_video_introduction_name">Sample video introduction name</string>
+    <string name="video_name">Video Name</string>
+    <string name="source">Source</string>
+    <string name="url_of_video">Url of Video</string>
+    <string name="about_video">About Video</string>
+    <string name="source_name">Source Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="settings">Settings</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="logging_in">Logging In....</string>
+    <string name="signing_up">Signing Up....</string>
+
+
+</resources>
