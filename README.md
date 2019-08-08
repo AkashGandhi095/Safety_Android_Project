@@ -11,6 +11,11 @@ Features:
 4. This App train and support women to engage with safety training includes videos, images and techniques include web posts which can be      used in emergency situations.
 5. This App provides details of safety equipment's to help the victim fight back when necessary.
 
+In this android application,  I used a firebase database to achieve backend as a service.
+Following firebase functionalities used in the android application :
+1. Firebase Authentication: to identify a user.
+2. Realtime Database: to store all apps data.
+
 # Application UI
 
 ![Screenshot_2019-06-21-20-37-24](https://user-images.githubusercontent.com/47486836/59933225-a823bc00-9466-11e9-8318-c8d501e24746.png)
