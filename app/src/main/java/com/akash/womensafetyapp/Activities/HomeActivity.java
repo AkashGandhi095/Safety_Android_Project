@@ -28,11 +28,6 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class HomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-
-    /**
-     * This Women safety Project is in java programming language.
-     */
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -60,6 +55,11 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
     }
 
 
+    /**
+     * This function listen when item selected from navigation Drawer
+     * @param menuItem a drawer menu selected item
+     * @return
+     */
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
 
@@ -109,6 +109,9 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         return true;
     }
 
+    /**
+     * this function logout from the signed In account.
+     */
     private void LogOut() {
 
         DrawerLayout drawerLayout = findViewById(R.id.myDrawerLayout);
