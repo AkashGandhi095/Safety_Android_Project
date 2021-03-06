@@ -27,6 +27,10 @@ public class ForgotPasswordActivity extends AppCompatActivity {
         email = findViewById(R.id.SendEmail);
     }
 
+    /**
+     * function to reset your account password
+     * @param view
+     */
     public void ForgotPassword(View view) {
         String EMAIL = email.getText().toString();
         if(TextUtils.isEmpty(EMAIL))
