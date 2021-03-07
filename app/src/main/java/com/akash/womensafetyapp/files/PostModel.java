@@ -1,5 +1,9 @@
 package com.akash.womensafetyapp.files;
 
+/**
+ * made some changes in project or add new functionality in project on same branch.
+ * push the changes and create a pull request,
+ */
 public class PostModel {
 
     private String Post_name , Image , Web_link , Web_name;
