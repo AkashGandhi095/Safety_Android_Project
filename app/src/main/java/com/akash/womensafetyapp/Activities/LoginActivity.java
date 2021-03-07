@@ -66,6 +66,11 @@ public class LoginActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * this function SignedInWithEMailAndPassword
+     * @param email users email
+     * @param password users password
+     */
     private void SignInWithEmailAndPassword(String email, String password) {
 
         auth.signInWithEmailAndPassword(email , password).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
