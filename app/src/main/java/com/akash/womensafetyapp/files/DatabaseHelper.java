@@ -9,6 +9,10 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.ArrayList;
 
+/**
+ * Sqlite open helper class to open Sqlite database connection..
+ */
+
 public class DatabaseHelper extends SQLiteOpenHelper {
 
 
